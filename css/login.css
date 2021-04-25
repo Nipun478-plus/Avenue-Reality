@@ -1,0 +1,83 @@
+body{
+    
+    background-image: url(/images/log.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .form-container{
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  perspective: 1000px;
+  
+
+  }
+  .form-container form{
+    height: 450px;
+    width: 350px;
+  
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 3px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  padding-top: 80px;
+  position: relative;
+  right: 20%;
+  background-color: azure;  
+  }
+  
+  h3 {
+    font-size: 60px;
+    padding: 60px ;
+    position:relative;
+    bottom: 30%;
+    letter-spacing: 3px;
+  }
+  i{
+    padding: 0.5px;
+    font-size: 20px;
+    /* color: #bbb; */
+  }
+   .forma {
+    position: relative;
+    bottom: 40%;
+    font-size: 30px;
+    
+  }
+  .container input {
+    padding: 10px;
+
+  }
+  .doto {
+    position: relative;
+    bottom: 35%;
+    
+  }
+  .doto input {
+    padding: 10px;
+    font-size: 20px;
+  }
+  .doto input:hover{
+    color: white;
+    background-color: black;
+    
+  }
+  .nipun a{
+ 
+  
+  text-decoration: none;
+  color: black;
+
+  }
+  .nipun {
+    margin-top: 70px;
+  }
+  .nipun a:hover{
+    color:blue;
+    border-bottom: 2px solid blue;
+  }
+  
