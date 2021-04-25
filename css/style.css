@@ -9,7 +9,7 @@ html {
     height: 750px;
     width: 100%;
     
-    background-image: url(/images/background-ground\ image\ 2.jfif);
+    background-image: url(../images/background-ground\ image\ 2.jfif);
     /* background-color: blueviolet; */
     background-repeat: no-repeat;
     background-size: cover;
